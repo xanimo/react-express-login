@@ -1,12 +1,12 @@
 import * as firebase from 'firebase';
 
 const config = {
-    apiKey: "AIzaSyBeiKFMOkz2JLsqqPoZP-nnCFoEuQrW0Ho",
-    authDomain: "dakdoablue.firebaseapp.com",
-    databaseURL: "https://dakdoablue.firebaseio.com",
-    projectId: "dakdoablue",
-    storageBucket: "dakdoablue.appspot.com",
-    messagingSenderId: "472600738269"
+//   apiKey: YOUR_API_KEY,
+//   authDomain: YOUR_AUTH_DOMAIN,
+//   databaseURL: YOUR_DATABASE_URL,
+//   projectId: YOUR_PROJECT_ID,
+//   storageBucket: '',
+//   messagingSenderId: YOUR_MESSAGING_SENDER_ID,
 };
 
 // const devConfig = {
